@@ -113,16 +113,20 @@ Currently, my core focus lies in mastering Data Structures and Algorithms (DSA) 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=tanmaysinghgaira&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaysinghgaira&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
 
 <br /><br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmaysinghgaira&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 <br /><br />
 
-<img src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+<!-- 
+NOTE: To use the Contribution Snake below, you must first set up the snk GitHub Action in this repository. 
+Once set up, uncomment the line below.
+-->
+<!-- <img src="https://github.com/tanmaysinghgaira/tanmaysinghgaira/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" /> -->
 
 </div>
 
