@@ -3,7 +3,7 @@
 <h1>Tanmay Gaira</h1>
 
 <p>
-  <strong>Software Engineer in the Making | Full Stack Developer | BCA Student</strong>
+  <strong>| Full Stack Developer |</strong>
 </p>
 
 <p>
