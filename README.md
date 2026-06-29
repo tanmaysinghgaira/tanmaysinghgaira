@@ -182,19 +182,19 @@ Currently, my core focus lies in mastering Data Structures and Algorithms (DSA) 
 ## Connect With Me
 
 <div align="center">
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/tanmaysinghgaira">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/tanmay-gaira/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:tanmaygaira911@gmial.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://youtube.com/c/your-channel">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://your-portfolio-link.com">
+  <a href="tanmaysinghgaira.github.io">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Google%20Chrome&logoColor=white" alt="Portfolio" />
   </a>
 </div>
